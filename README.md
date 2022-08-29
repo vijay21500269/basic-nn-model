@@ -10,7 +10,7 @@ The Neural network model contains input layer,two hidden layers and output layer
 
 ## Neural Network Model
 
-![pic1]()
+![pic1](https://github.com/vijay21500269/basic-nn-model/blob/main/layers.png)
 
 ## DESIGN STEPS
 
