@@ -10,7 +10,7 @@ The Neural network model contains input layer,two hidden layers and output layer
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![pic1]()
 
 ## DESIGN STEPS
 
@@ -83,20 +83,21 @@ AI_BRAIN.predict(x_n1_1)
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![pic3]()
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![pic2]()
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![pic4]()
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![pic5]()
 
 ## RESULT
+Thus, the neural network model for the given dataset is implemented successfully.
