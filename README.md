@@ -83,7 +83,7 @@ AI_BRAIN.predict(x_n1_1)
 
 ## Dataset Information
 
-![pic3]()
+![pic3](https://github.com/vijay21500269/basic-nn-model/blob/main/dataset.png)
 
 ## OUTPUT
 
