@@ -97,7 +97,7 @@ AI_BRAIN.predict(x_n1_1)
 
 ### New Sample Data Prediction
 
-![pic5](https://github.com/vijay21500269/basic-nn-model/blob/main/layers.png)
+![pic5](https://github.com/vijay21500269/basic-nn-model/blob/main/new%20sample%20data.png)
 
 ## RESULT
 Thus, the neural network model for the given dataset is implemented successfully.
