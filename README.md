@@ -93,7 +93,7 @@ AI_BRAIN.predict(x_n1_1)
 
 ### Test Data Root Mean Squared Error
 
-![pic4]()
+![pic4](https://github.com/vijay21500269/basic-nn-model/blob/main/graph.png)
 
 ### New Sample Data Prediction
 
